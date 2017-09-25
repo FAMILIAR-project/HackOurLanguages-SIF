@@ -15,14 +15,13 @@ https://www.irisa.fr/lande/ridoux/ENS/COMP/compilation.pdf http://people.irisa.f
 The course starts with an introduction to MDE and SLE, and then moves into a deeper discussion of how to express the knowledge of particular domains into tool supported DSLs. The second part lets students investigate the applications of MDE and SLE to different types of software systems, from different starting points (language, business knowledge, standard, etc.) and for different software engineering activities such as Requirement Engineering, Variability Management, Analysis, Design, Implementation, and Validation & Verification. 
 
 Syllabus:
- * Introduction to Model-Driven Engineering and Software Language Engineering
+ * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h)
+    Slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
  * Domain-Specific Languages: Basics
  * Domain-Specific Languages: Advanced (staging, att. grammars, typing, op. semantics…)
  * Language workbenches
- * Program and model transformation (static analysis, code/test/doc generation…)
- * Program and model execution, simulation and debugging
+ * Model Based Testing, Integration of formal methods within DSLs (e.g., model checking)
  * Program and model composition (merge, coordination, synchronization)
- * Integration of formal methods within DSLs (e.g., model checking)
  * Family of DSLs and variability modeling (software product lines, feature models, etc.)
  * Automated reasoning (e.g., with solvers) and synthesis of variants
  * Cost-effective strategies for verifying billions of variants 
