@@ -30,11 +30,11 @@ Syllabus:
 
 ### What you will master	
 
-design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
+Design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
 
 ## Evaluation	
-Oral presentation of a critical review of a research article 
-+ project with several intermediate deliverables.
++ project (hack a DSL) with several intermediate deliverables (50%)
++ Written exam (2h, 50%)
 
 
 ## References	
@@ -48,7 +48,7 @@ https://teaching.variability.io
 
 ## Key notions	
 
-Principle of Separation of Concerns, Liskov's Substitutio Principle, Theory and Practice of Hacking your own Languages, Master large scale variability: 
+Principle of Separation of Concerns, Liskov's Substitution Principle, Theory and Practice of Hacking your own Languages, Large Scale Variability: 
 
 Why is it crucial? 
 Because complex software intensive systems : avionics, smart-* (cities,building,grid,farming) and software are eating the world
