@@ -15,16 +15,18 @@ https://www.irisa.fr/lande/ridoux/ENS/COMP/compilation.pdf http://people.irisa.f
 The course starts with an introduction to MDE and SLE, and then moves into a deeper discussion of how to express the knowledge of particular domains into tool supported DSLs. The second part lets students investigate the applications of MDE and SLE to different types of software systems, from different starting points (language, business knowledge, standard, etc.) and for different software engineering activities such as Requirement Engineering, Variability Management, Analysis, Design, Implementation, and Validation & Verification. 
 
 Syllabus:
- * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h)
+ * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h, JMJ 26 & 28/09)
     Slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
- * Domain-Specific Languages: Basics
- * Domain-Specific Languages: Advanced (staging, att. grammars, typing, op. semantics…)
- * Language workbenches
- * Model Based Testing, Integration of formal methods within DSLs (e.g., model checking)
- * Program and model composition (merge, coordination, synchronization)
- * Family of DSLs and variability modeling (software product lines, feature models, etc.)
- * Automated reasoning (e.g., with solvers) and synthesis of variants
- * Cost-effective strategies for verifying billions of variants 
+ * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs (2h, MA 3/10)
+   * Homework: Pro/Cons of DSLs, cf. https://www.martinfowler.com/articles/languageWorkbench.html
+ * Language workbenches: the Case of Xtext (2h, MA 5/10)
+ * Program & Model Transformations: the Case of Xtend (2h, MA 10/10)
+ * Introduction to Variability Modeling: software product lines and feature models (2h, MA 12/10)
+   * Project: Hack your own Variability Modeling DSL
+ * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA 17/10)
+ * DSLs for Model Based Testing, Integration of formal methods (2h, JMJ)
+ * Cost-effective strategies for verifying billions of variants (2h, MA)
+ * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ)
 
 
 ### What you will master	
