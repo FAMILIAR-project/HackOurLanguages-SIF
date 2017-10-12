@@ -22,7 +22,7 @@ Syllabus:
  * Language workbenches: the Case of Xtext (2h, MA 5/10)
  * Program & Model Transformations: the Case of Xtend (2h, MA 10/10)
  * Introduction to Variability Modeling: software product lines and feature models (2h, MA 12/10)
-   * Project: Hack your own Variability Modeling DSL
+   * Project: Hack your own Variability Modeling DSL http://tinyurl.com/HackDSLProject1718
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA 17/10)
  * DSLs for Model Based Testing, Integration of formal methods (2h, JMJ)
  * Cost-effective strategies for verifying billions of variants (2h, MA)
