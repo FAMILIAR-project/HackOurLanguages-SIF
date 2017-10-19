@@ -25,8 +25,8 @@ Syllabus:
    * Project: Hack your own Variability Modeling DSL http://tinyurl.com/HackDSLProject1718
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA 17/10)
  * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ 26/10)
- * Cost-effective strategies for verifying billions of variants (2h, MA)
  * DSLs for Model Based Testing, Integration of formal methods (2h, JMJ 9/11)
+ * Cost-effective strategies for verifying billions of variants (2h, MA, 14/11)
 
 
 ### What you will master	
@@ -35,7 +35,7 @@ Design and implement families of DSL and their tooling support, generative appro
 
 ## Evaluation	
 + project (hack a DSL) with several intermediate deliverables: http://tinyurl.com/HackDSLProject1718 (50%)
-+ Written exam (2h, 50%)
++ Written exam (2h, 50%) **16/11, 4:15PM-6:15PM**
 
 
 ## References	
