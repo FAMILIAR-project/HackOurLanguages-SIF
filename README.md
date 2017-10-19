@@ -24,9 +24,9 @@ Syllabus:
  * Introduction to Variability Modeling: software product lines and feature models (2h, MA 12/10)
    * Project: Hack your own Variability Modeling DSL http://tinyurl.com/HackDSLProject1718
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA 17/10)
- * DSLs for Model Based Testing, Integration of formal methods (2h, JMJ)
+ * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ 26/10)
  * Cost-effective strategies for verifying billions of variants (2h, MA)
- * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ)
+ * DSLs for Model Based Testing, Integration of formal methods (2h, JMJ 9/11)
 
 
 ### What you will master	
