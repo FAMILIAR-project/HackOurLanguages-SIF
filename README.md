@@ -34,7 +34,7 @@ Syllabus:
 Design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
 
 ## Evaluation	
-+ project (hack a DSL) with several intermediate deliverables (50%)
++ project (hack a DSL) with several intermediate deliverables: http://tinyurl.com/HackDSLProject1718 (50%)
 + Written exam (2h, 50%)
 
 
