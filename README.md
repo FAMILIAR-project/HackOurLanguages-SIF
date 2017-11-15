@@ -25,7 +25,9 @@ Syllabus:
    * Project: Hack your own Variability Modeling DSL http://tinyurl.com/HackDSLProject1718
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA 17/10)
  * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ 26/10)
+ Slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/FamiliesOfDSLs.pdf
  * DSLs for Model Based Testing, Integration of formal methods (2h, JMJ 9/11)
+ Slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/MBT.pdf
  * Cost-effective strategies for verifying billions of variants (2h, MA, 14/11)
 
 
