@@ -5,10 +5,13 @@ Model-Driven Engineering (MDE) aims at reducing the accidental complexity associ
 The integration of domain-specific concepts and best practices development experience into DSLs can significantly improve software and systems engineers productivity and system quality. For such a purpose, the development of DSLs has been recently recognized as a significant software engineering task itself. Indeed, the development of DSLs is a challenging task which requires specialized knowledge. This recently resulted in the emergence of Software Language Engineering (SLE), defined as the application of systematic, disciplined, and measurable approaches to the development, use, deployment, and maintenance of software languages.
 This course provides an end-to-end coverage of the engineering of DSLs to turn domain knowledge into tools. It introduces the foundations of MDE and SLE, with a specific focus on the use of modeling techniques for designing and implementing DSLs. It also provides various illustrations through the definition of different kinds of DSLs, their instrumentation with tools such as editors, simulators and generators, the integration of multiple DSLs to achieve a system view, and the validation of both models and tools. Finally the course provides the foundations for engineering a family of related DSLs, for modeling and managing variability, and for synthesising billions of variants out of textual or graphical specifications.
 
+A project will be realized and will consist in "hacking" a domain-specific language (from the syntax to its execution) 
+
 ### prerequisites
 Basis of the Theory of Languages, Compilation, Object-Oriented Design, Typing
 https://www.irisa.fr/lande/ridoux/ENS/COMP/compilation.pdf http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/PolyUML/poly.pdf
 
+Knowledge in programming languages (for example: Java, Scala, Python, Ocaml, JavaScript) 
 
 ## Objectives 
 
@@ -22,7 +25,6 @@ Syllabus:
  * Language workbenches: the Case of Xtext (2h, MA 5/10)
  * Program & Model Transformations: the Case of Xtend (2h, MA 10/10)
  * Introduction to Variability Modeling: software product lines and feature models (2h, MA 12/10)
-   * Project: Hack your own Variability Modeling DSL http://tinyurl.com/HackDSLProject1718
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA 17/10)
  * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ 26/10)
  Slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/FamiliesOfDSLs.pdf
@@ -36,9 +38,12 @@ Syllabus:
 Design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
 
 ## Evaluation	
-+ project (hack a DSL) with several intermediate deliverables: http://tinyurl.com/HackDSLProject1718 (50%)
-+ Written exam (2h, 50%) **16/11, 4:15PM-6:15PM**
++ project (hack a DSL) with several intermediate deliverables (50%)
++ Written exam (2h, 50%) 
 
+## Previous project (2017/2018) 
+
+Hack your own Variability Modeling DSL http://tinyurl.com/HackDSLProject1718 
 
 ## References	
 
