@@ -18,19 +18,16 @@ Knowledge in programming languages (for example: Java, Scala, Python, Ocaml, Jav
 The course starts with an introduction to MDE and SLE, and then moves into a deeper discussion of how to express the knowledge of particular domains into tool supported DSLs. The second part lets students investigate the applications of MDE and SLE to different types of software systems, from different starting points (language, business knowledge, standard, etc.) and for different software engineering activities such as Requirement Engineering, Variability Management, Analysis, Design, Implementation, and Validation & Verification. 
 
 Syllabus:
- * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h, JMJ 26 & 28/09)
-    Slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
- * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs (2h, MA 3/10)
-   * Homework: Pro/Cons of DSLs, cf. https://www.martinfowler.com/articles/languageWorkbench.html
- * Language workbenches: the Case of Xtext (2h, MA 5/10)
- * Program & Model Transformations: the Case of Xtend (2h, MA 10/10)
- * Introduction to Variability Modeling: software product lines and feature models (2h, MA 12/10)
- * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA 17/10)
- * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ 26/10)
- Slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/FamiliesOfDSLs.pdf
- * DSLs for Model Based Testing, Integration of formal methods (2h, JMJ 9/11)
- Slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/MBT.pdf
- * Cost-effective strategies for verifying billions of variants (2h, MA, 14/11)
+ * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h, JMJ)
+ * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs
+ * Language workbenches: the Case of Xtext 
+ * Program & Model Transformations: the Case of Xtend 
+ * Introduction to Variability Modeling: software product lines and feature models
+ * Automated reasoning (e.g., with solvers) and synthesis of variants
+ * Families of DSLs: Safely Reusing Tools accross DSLs
+ * DSLs for Model Based Testing, Integration of formal methods 
+ * Cost-effective strategies for verifying billions of variants 
+ * Machine learning and variability modeling 
 
 
 ### What you will master	
@@ -41,9 +38,9 @@ Design and implement families of DSL and their tooling support, generative appro
 + project (hack a DSL) with several intermediate deliverables (50%)
 + Written exam (2h, 50%) 
 
-## Previous project (2017/2018) 
+## Project 
 
-Hack your own Variability Modeling DSL http://tinyurl.com/HackDSLProject1718 
+(more to come)
 
 ## References	
 
