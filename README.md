@@ -18,7 +18,8 @@ Knowledge in programming languages (for example: Java, Scala, Python, Ocaml, Jav
 The course starts with an introduction to MDE and SLE, and then moves into a deeper discussion of how to express the knowledge of particular domains into tool supported DSLs. The second part lets students investigate the applications of MDE and SLE to different types of software systems, from different starting points (language, business knowledge, standard, etc.) and for different software engineering activities such as Requirement Engineering, Variability Management, Analysis, Design, Implementation, and Validation & Verification. 
 
 Syllabus:
- * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h, JMJ)
+ * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h, JMJ, 18/9 & 20/9)
+ ** slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
  * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs
  * Language workbenches: the Case of Xtext 
  * Program & Model Transformations: the Case of Xtend 
