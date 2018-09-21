@@ -41,7 +41,7 @@ Syllabus:
 Design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
 
 ## Evaluation	
-+ project (hack a DSL) with several intermediate deliverables (50%)
++ project (hack a DSL) with several intermediate deliverables (50%): a DSL for SAT solver variants https://docs.google.com/document/d/1v1YUDhcCjx42-amBqXqNzrI5LF9HfjXxku7kvG9zMoE/edit?usp=sharing
 + Written exam (2h, 50%) 
 
 ## Project 
