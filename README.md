@@ -1,4 +1,6 @@
-# The Art Of Domain-Specific Languages: Let's Hack Our Own Languages! 
+# The Art Of Domain-Specific Languages: Let's Hack Our Own Languages!
+
+by Jean-Marc Jézéquel and Mathieu Acher
 
 The Science of Software faces new challenges with the advent of modern software-intensive systems such as complex critical embedded systems, cyber-physical systems and Internet of things. Application domains range from robotics, transportation systems, defense to home automation, smart cities, and energy management, among others. Software is more and more pervasive, integrated into large and distributed systems, and dynamically adaptable in response to a complex and open environment. As a major consequence, the engineering of such systems involves multiple stakeholders, each with some form of domain-specific modeling.
 Model-Driven Engineering (MDE) aims at reducing the accidental complexity associated with developing complex software-intensive systems through the use of modeling techniques that support separation of concerns and automated generation of system artifacts from models. Separation of concerns is founded on the exploitation of different domain-specific modeling languages (DSLs), each providing constructs based on abstractions that are specific to a concern of a system. As such, DSLs are “the heart and soul” of MDE, and have major consequences on modern development processes.
@@ -6,6 +8,8 @@ The integration of domain-specific concepts and best practices development exper
 This course provides an end-to-end coverage of the engineering of DSLs to turn domain knowledge into tools. It introduces the foundations of MDE and SLE, with a specific focus on the use of modeling techniques for designing and implementing DSLs. It also provides various illustrations through the definition of different kinds of DSLs, their instrumentation with tools such as editors, simulators and generators, the integration of multiple DSLs to achieve a system view, and the validation of both models and tools. Finally the course provides the foundations for engineering a family of related DSLs, for modeling and managing variability, and for synthesising billions of variants out of textual or graphical specifications.
 
 A project will be realized and will consist in "hacking" a domain-specific language (from the syntax to its execution) 
+
+This course is part of The Research in Computer Science (SIF) master: http://master.irisa.fr/
 
 ### prerequisites
 Basis of the Theory of Languages, Compilation, Object-Oriented Design, Typing
@@ -21,7 +25,7 @@ Syllabus:
  * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h, JMJ, 18/9 & 20/9)
  ** slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
  * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs (2h, MA, 25/9)
-  * **Project presentation**
+   * including **project presentation**
  * Language workbenches: the Case of Xtext (2h, MA, 27/9)
  * Program & Model Transformations: the Case of Xtend (2h, MA, 4/10)
  * Introduction to Variability Modeling: software product lines and feature models (2h, MA, 9/10)
