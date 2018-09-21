@@ -19,16 +19,17 @@ The course starts with an introduction to MDE and SLE, and then moves into a dee
 
 Syllabus:
  * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h, JMJ, 18/9 & 20/9)
- ** slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
- * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs
- * Language workbenches: the Case of Xtext 
- * Program & Model Transformations: the Case of Xtend 
- * Introduction to Variability Modeling: software product lines and feature models
- * Automated reasoning (e.g., with solvers) and synthesis of variants
+ ** slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
+ * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs (2h, MA, 25/9)
+  * **Project presentation**
+ * Language workbenches: the Case of Xtext (2h, MA, 27/9)
+ * Program & Model Transformations: the Case of Xtend (2h, MA, 4/10)
+ * Introduction to Variability Modeling: software product lines and feature models (2h, MA, 9/10)
+ * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA, 11/10) 
+ * Cost-effective strategies for verifying billions of variants (2h, MA, 16/10)
+ * Machine learning and variability modeling (2h, MA, 18/10)
  * Families of DSLs: Safely Reusing Tools accross DSLs
  * DSLs for Model Based Testing, Integration of formal methods 
- * Cost-effective strategies for verifying billions of variants 
- * Machine learning and variability modeling 
 
 
 ### What you will master	
