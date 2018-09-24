@@ -26,6 +26,7 @@ Syllabus:
  ** slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
  * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs (2h, MA, 25/9)
    * including **project presentation**
+   * slides: DSL.pdf 
  * Language workbenches: the Case of Xtext (2h, MA, 27/9)
  * Program & Model Transformations: the Case of Xtend (2h, MA, 4/10)
  * Introduction to Variability Modeling: software product lines and feature models (2h, MA, 9/10)
