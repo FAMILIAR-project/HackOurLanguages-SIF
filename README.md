@@ -28,6 +28,7 @@ Syllabus:
    * including **project presentation**
    * slides: DSL.pdf 
  * Language workbenches: the Case of Xtext (2h, MA, 27/9)
+   * slides: DSLXtext.pdf 
  * Program & Model Transformations: the Case of Xtend (2h, MA, 4/10)
  * Introduction to Variability Modeling: software product lines and feature models (2h, MA, 9/10)
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA, 11/10) 
