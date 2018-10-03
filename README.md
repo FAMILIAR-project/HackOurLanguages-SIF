@@ -37,7 +37,7 @@ Syllabus:
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA, 11/10) 
  * Cost-effective strategies for verifying billions of variants (2h, MA, 16/10)
  * Machine learning and variability modeling (2h, MA, 18/10)
- * Families of DSLs: Safely Reusing Tools accross DSLs
+ * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ, 23/10)
  * DSLs for Model Based Testing, Integration of formal methods 
 
 
