@@ -32,11 +32,12 @@ Syllabus:
    * resources
      * JHipster exercice https://docs.google.com/spreadsheets/d/1VJ4AmLEzGhDv96xVsmT7zKm8tWwulXkj_3jS0gzrqlY/edit?usp=sharing
      * Decision tables: https://medium.com/@markusvoelter/the-evolution-of-decision-tables-80ce77bf984c
- * Program & Model Transformations: the Case of Xtend (2h, MA, 4/10)
+ * Program & Model Transformations: the Case of Xtend (2h, MA, 4/10 and 9/10)
    * slides: ModelManagement.pdf 
- * Introduction to Variability Modeling: software product lines and feature models (2h, MA, 9/10)
- * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA, 11/10) 
- * Cost-effective strategies for verifying billions of variants (2h, MA, 16/10)
+ * Introduction to Variability Modeling: software product lines and feature models (2h, MA, 11/10)
+   * slides: SPLIntro.pdf 
+ * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA, 16/10) 
+ * Cost-effective strategies for verifying billions of variants (2h, MA, 16/10 and 18/10)
  * Machine learning and variability modeling (2h, MA, 18/10)
  * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ, 23/10)
  * DSLs for Model Based Testing, Integration of formal methods 
