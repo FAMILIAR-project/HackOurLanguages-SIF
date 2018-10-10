@@ -35,7 +35,7 @@ Syllabus:
  * Program & Model Transformations: the Case of Xtend (2h, MA, 4/10 and 9/10)
    * slides: ModelManagement.pdf 
  * Introduction to Variability Modeling: software product lines and feature models (2h, MA, 11/10)
-   * slides: SPLIntro.pdf 
+   * slides: VariabilitySPLIntro.pdf 
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA, 16/10) 
  * Cost-effective strategies for verifying billions of variants (2h, MA, 16/10 and 18/10)
  * Machine learning and variability modeling (2h, MA, 18/10)
