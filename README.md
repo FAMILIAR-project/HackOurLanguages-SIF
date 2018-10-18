@@ -38,7 +38,8 @@ Syllabus:
    * slides: VariabilitySPLIntro.pdf 
  * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA, 18/10) 
    * ~~16/10 course is cancelled~~ 
- * Cost-effective strategies for verifying billions of variants (2h, MA, 18/10 and 25/10)
+   * slides: VariabilitySPLModeling.pdf and VariabilityModelingReasoning.pdf
+ * Cost-effective strategies for verifying billions of variants (2h, MA, 25/10)
  * Machine learning and variability modeling (2h, MA, 25/10)
  * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ, 23/10)
  * DSLs for Model Based Testing, Integration of formal methods 
