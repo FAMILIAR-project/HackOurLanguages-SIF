@@ -40,7 +40,7 @@ Syllabus:
    * ~~16/10 course is cancelled~~ 
    * slides: VariabilitySPLModeling.pdf, VariabilityModelingReasoning.pdf, SemanticsSynthesisVariabilityModels.pdf 
  * ~~Cost-effective strategies for verifying billions of variants~~ 
- * ~~Machine learning and variability modeling~~ (2h, MA, 25/10)
+ * ~~Machine learning and variability modeling (2h, MA, 25/10)~~ 
  * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ, 23/10)
  * ~~DSLs for Model Based Testing, Integration of formal methods~~ 
 
