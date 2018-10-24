@@ -51,7 +51,7 @@ Design and implement families of DSL and their tooling support, generative appro
 
 ## Evaluation	
 + project (hack a DSL) with several intermediate deliverables (50%): a DSL for SAT solver variants https://docs.google.com/document/d/1v1YUDhcCjx42-amBqXqNzrI5LF9HfjXxku7kvG9zMoE/edit?usp=sharing
-+ Written exam (2h, 50%) 
++ Written exam (2h, 50%) **8/11 (4:15-6:15 PM)**
 
 ## Project 
 
