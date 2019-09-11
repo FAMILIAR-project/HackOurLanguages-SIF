@@ -21,73 +21,28 @@ Knowledge in programming languages (for example: Java, Scala, Python, Ocaml, Jav
 
 The course starts with an introduction to MDE and SLE, and then moves into a deeper discussion of how to express the knowledge of particular domains into tool supported DSLs. The second part lets students investigate the applications of MDE and SLE to different types of software systems, from different starting points (language, business knowledge, standard, etc.) and for different software engineering activities such as Requirement Engineering, Variability Management, Analysis, Design, Implementation, and Validation & Verification. 
 
-You can find below the schedule and organization of the course, including:
-
-* pointers to slides and material of the course
-* milestones of the running project and intermediate deadlines 
-* the dates of the courses and the instructors (JMJ means Jean-Marc Jezequel, MA means Mathieu Acher)
-
-## Agenda
-
- * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 16 september)
-
-    * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
-
- * Language workbenches: the case of Xtext (MA, 19 september)
-
+Syllabus:
+ * Introduction to DSLs, Model-Driven Engineering and Software Language Engineering (4h, JMJ, 18/9 & 20/9)
+ ** slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
+ * Software Languages: from Fluent APIs, Internal DSLs, External DSLs to GPLs (2h, MA, 25/9)
+   * including **project presentation**
+   * slides: DSL.pdf 
+ * Language workbenches: the Case of Xtext (2h, MA, 27/9)
    * slides: DSLXtext.pdf 
-   * presentation of the running project
-   * milestone: metamodel of a DSL for specifying SAT formula (see below running project)
-     * deadline: 25 september 
-    * milestone: concrete syntax of the DSL with Xtext 
-       * deadline: 25 september 
-
- * Compilation, interpretation, model transformation, Logo example (JMJ, 23 september)
-
-    * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
-
- * Program & Model Transformations: the Case of Xtend (MA, 26 september)
-
+   * resources
+     * JHipster exercice https://docs.google.com/spreadsheets/d/1VJ4AmLEzGhDv96xVsmT7zKm8tWwulXkj_3jS0gzrqlY/edit?usp=sharing
+     * Decision tables: https://medium.com/@markusvoelter/the-evolution-of-decision-tables-80ce77bf984c
+ * Program & Model Transformations: the Case of Xtend (2h, MA, 4/10 and 9/10)
    * slides: ModelManagement.pdf 
-   * intermediate control of the running project
-   * milestone: pretty printing and DIMACS transformation (see below running project)
-      - deadline: 02 october
-
- * Personal work (30 september)
-
- * Advanced model transformation and the expression problem (03 october, MA)
-
-    - we give a set of papers on the expression problem that we will use in the final exam  (see below for more details)
-
- * Personal work (7 october)
-
- * Introduction to Variability Modeling: software product lines and feature models (MA, 10 october)
-
+ * Introduction to Variability Modeling: software product lines and feature models (2h, MA, 11/10)
    * slides: VariabilitySPLIntro.pdf 
-   * milestone: compilers (deadline: 20 october)
-
-* Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 14 october)
-
-* Personal work (17 october)
-
- * Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 21 october) 
-   * intermediate control of the running project
+ * Automated reasoning (e.g., with solvers) and synthesis of variants (2h, MA, 18/10 and 25/10) 
+   * ~~16/10 course is cancelled~~ 
    * slides: VariabilitySPLModeling.pdf, VariabilityModelingReasoning.pdf, SemanticsSynthesisVariabilityModels.pdf 
-
- * Testing software and compilers (AM, 24 october)
-
-     - milestone: testing your compilers
-        - deadline: 06 november
-
- * Personal work (4 november)
-
-* Automated assessement of compilers' variants and benchmarks (AM, 07 november) 
-
-     - milestone: finding functional and non-functional bugs in a compiler 
-
- * Final exam (1 hour, JMJ, 14 november)
-
-    ​
+ * ~~Cost-effective strategies for verifying billions of variants~~ 
+ * ~~Machine learning and variability modeling (2h, MA, 25/10)~~ 
+ * Families of DSLs: Safely Reusing Tools accross DSLs (2h, JMJ, 23/10)
+ * ~~DSLs for Model Based Testing, Integration of formal methods~~ 
 
 
 ### What you will master	
@@ -95,9 +50,12 @@ You can find below the schedule and organization of the course, including:
 Design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
 
 ## Evaluation	
-+ project (hack a DSL) with several intermediate deliverables (50%): a DSL for SAT solver variants https://docs.google.com/document/d/15sPsJQDbAwzAaSQl1vDDcyUg5fQjeL2gs7MZnVbgAps/edit?usp=sharing
-  + common Github repository <https://github.com/diverse-project/SAT-DSLmorphic>
-+ Written exam (1h, 50%) **14 november**
++ project (hack a DSL) with several intermediate deliverables (50%): a DSL for SAT solver variants https://docs.google.com/document/d/1v1YUDhcCjx42-amBqXqNzrI5LF9HfjXxku7kvG9zMoE/edit?usp=sharing
++ Written exam (2h, 50%) **8/11 (4:15-6:15 PM)**
+
+## Project 
+
+(more to come)
 
 ## References	
 
