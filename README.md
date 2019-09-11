@@ -55,7 +55,7 @@ You can find below the schedule and organization of the course, including:
 
  * Personal work (30 september)
 
- * Advanced model transformation and the expression problem (03 october, MA)
+ * Advanced model transformation and the expression problem (MA, 03 october)
 
     - we give a set of papers on the expression problem that we will use in the final exam  (see below for more details)
 
@@ -74,14 +74,14 @@ You can find below the schedule and organization of the course, including:
    * intermediate control of the running project
    * slides: VariabilitySPLModeling.pdf, VariabilityModelingReasoning.pdf, SemanticsSynthesisVariabilityModels.pdf 
 
- * Testing software and compilers (AM, 24 october)
+ * Testing software and compilers (MA, 24 october)
 
      - milestone: testing your compilers
         - deadline: 06 november
 
  * Personal work (4 november)
 
-* Automated assessement of compilers' variants and benchmarks (AM, 07 november) 
+* Automated assessement of compilers' variants and benchmarks (MA, 07 november) 
 
      - milestone: finding functional and non-functional bugs in a compiler 
 
