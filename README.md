@@ -30,12 +30,10 @@ You can find below the schedule and organization of the course, including:
 ## Agenda
 
  * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 16 september)
-
     * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
 
  * Language workbenches: the case of Xtext (MA, 19 september)
-
-   * slides: DSLXtext.pdf 
+   * slides: `DSLXtext.pdf`
    * presentation of the running project
    * milestone: metamodel of a DSL for specifying SAT formula (see below running project)
      * deadline: 25 september 
@@ -43,12 +41,10 @@ You can find below the schedule and organization of the course, including:
        * deadline: 25 september 
 
  * Compilation, interpretation, model transformation, Logo example (JMJ, 23 september)
-
     * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
 
  * Program & Model Transformations: the Case of Xtend (MA, 26 september)
-
-   * slides: ModelManagement.pdf 
+   * slides: `ModelManagement.pdf`
    * intermediate control of the running project
    * milestone: pretty printing and DIMACS transformation (see below running project)
       - deadline: 02 october
@@ -56,13 +52,26 @@ You can find below the schedule and organization of the course, including:
  * Personal work (30 september)
 
  * Advanced model transformation and the expression problem (MA, 03 october)
-
-    - we give a set of papers on the expression problem that we will use in the final exam  (see below for more details)
+   * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
+   * we give a set of papers on the expression problem that we will use in the final exam:
+    * E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns:
+Elements of Reusable Object-oriented Software. Addison-Wesley
+Longman Publishing Co., Inc., Boston, MA, USA, 1995. **Interpreter** and **Visitor** chapters
+    * B. C. d. S. Oliveira and W. R. Cook, “Extensibility for the masses -
+practical extensibility with object algebras,” in Proceedings of the 26th
+European Conference on Object-Oriented Programming (ECOOP’12),
+2012, pp. 2–27.
+    * J. Jézéquel, B. Combemale, O. Barais, M. Monperrus, and F. Fouquet,
+“Mashup of metalanguages and its implementation in the kermeta language
+workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920,
+2015.
+    * Y. Wang and B. C. d. S. Oliveira, “The expression problem, trivially!”
+in Proceedings of the 15th International Conference on Modularity
+(Modularity’16). ACM, 2016, pp. 37–41.  
 
  * Personal work (7 october)
 
  * Introduction to Variability Modeling: software product lines and feature models (MA, 10 october)
-
    * slides: VariabilitySPLIntro.pdf 
    * milestone: compilers (deadline: 20 october)
 
@@ -70,24 +79,20 @@ You can find below the schedule and organization of the course, including:
 
 * Personal work (17 october)
 
- * Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 21 october) 
+* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 21 october) 
    * intermediate control of the running project
    * slides: VariabilitySPLModeling.pdf, VariabilityModelingReasoning.pdf, SemanticsSynthesisVariabilityModels.pdf 
 
- * Testing software and compilers (MA, 24 october)
-
+* Testing software and compilers (MA, 24 october)
      - milestone: testing your compilers
         - deadline: 06 november
 
- * Personal work (4 november)
+* Personal work (4 november)
 
-* Automated assessement of compilers' variants and benchmarks (MA, 07 november) 
-
+* Automated assessement of compilers' variants and benchmarks (MA, 07 november)
      - milestone: finding functional and non-functional bugs in a compiler 
 
- * Final exam (1 hour, JMJ, 14 november)
-
-    ​
+* Final exam (1 hour, JMJ, 14 november)
 
 
 ### What you will master	
