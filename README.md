@@ -67,11 +67,12 @@ workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015
 in Proceedings of the 15th International Conference on Modularity
 (Modularity’16). ACM, 2016, pp. 37–41.  
 
-* Personal work (7 october)
+* Personal work: reading papers about the expression problem (7 october)
 
 * Introduction to Variability Modeling: software product lines and feature models (MA, 10 october)
    * slides: VariabilitySPLIntro.pdf 
-   * milestone: compilers (deadline: 20 october)
+   * milestone: compilers 
+     - deadline: 20 october
 
 * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 14 october)
 
