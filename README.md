@@ -53,25 +53,23 @@ You can find below the schedule and organization of the course, including:
 
  * Advanced model transformation and the expression problem (MA, 03 october)
    * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
-   * we give a set of papers on the expression problem that we will use in the final exam:
-    * E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns:
+   * we give a set of five papers on the expression problem that we will use in the final exam:
+     - E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns:
 Elements of Reusable Object-oriented Software. Addison-Wesley
 Longman Publishing Co., Inc., Boston, MA, USA, 1995. **Interpreter** and **Visitor** chapters
-    * B. C. d. S. Oliveira and W. R. Cook, “Extensibility for the masses -
+     - B. C. d. S. Oliveira and W. R. Cook, “Extensibility for the masses -
 practical extensibility with object algebras,” in Proceedings of the 26th
-European Conference on Object-Oriented Programming (ECOOP’12),
-2012, pp. 2–27.
-    * J. Jézéquel, B. Combemale, O. Barais, M. Monperrus, and F. Fouquet,
+European Conference on Object-Oriented Programming (ECOOP’12), 2012, pp. 2–27.
+     - J. Jézéquel, B. Combemale, O. Barais, M. Monperrus, and F. Fouquet,
 “Mashup of metalanguages and its implementation in the kermeta language
-workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920,
-2015.
-    * Y. Wang and B. C. d. S. Oliveira, “The expression problem, trivially!”
+workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015.
+     - Y. Wang and B. C. d. S. Oliveira, “The expression problem, trivially!”
 in Proceedings of the 15th International Conference on Modularity
 (Modularity’16). ACM, 2016, pp. 37–41.  
 
- * Personal work (7 october)
+* Personal work (7 october)
 
- * Introduction to Variability Modeling: software product lines and feature models (MA, 10 october)
+* Introduction to Variability Modeling: software product lines and feature models (MA, 10 october)
    * slides: VariabilitySPLIntro.pdf 
    * milestone: compilers (deadline: 20 october)
 
