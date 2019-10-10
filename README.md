@@ -72,15 +72,15 @@ in Proceedings of the 15th International Conference on Modularity
 * Introduction to Variability Modeling: software product lines and feature models (MA, 10 october)
    * slides: VariabilitySPLIntro.pdf 
    * milestone: compilers 
-     - deadline: 20 october
+     - deadline: 16 october
 
 * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 14 october)
 
-* Personal work (17 october)
-
-* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 21 october) 
+* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 17 october) 
    * intermediate control of the running project
    * slides: VariabilitySPLModeling.pdf, VariabilityModelingReasoning.pdf, SemanticsSynthesisVariabilityModels.pdf 
+   
+* Personal work (21 october)
 
 * Testing software and compilers (MA, 24 october)
      - milestone: testing your compilers
