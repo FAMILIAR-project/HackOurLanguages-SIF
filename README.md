@@ -70,7 +70,7 @@ in Proceedings of the 15th International Conference on Modularity
 * Personal work: reading papers about the expression problem (7 october)
 
 * Introduction to Variability Modeling: software product lines and feature models (MA, 10 october)
-   * slides: VariabilitySPLIntro.pdf 
+   * slides: `VariabilitySPLIntro.pdf`
    * milestone: compilers 
      - deadline: 16 october
 
@@ -78,7 +78,7 @@ in Proceedings of the 15th International Conference on Modularity
 
 * Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 17 october) 
    * intermediate control of the running project
-   * slides: VariabilityModeling.pdf
+   * slides: `VariabilityModeling.pdf`
    
 * Personal work (21 october)
 
