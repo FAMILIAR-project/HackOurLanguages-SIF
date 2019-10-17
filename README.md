@@ -78,7 +78,7 @@ in Proceedings of the 15th International Conference on Modularity
 
 * Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 17 october) 
    * intermediate control of the running project
-   * slides: VariabilitySPLModeling.pdf, VariabilityModelingReasoning.pdf, SemanticsSynthesisVariabilityModels.pdf 
+   * slides: VariabilityModeling.pdf
    
 * Personal work (21 october)
 
