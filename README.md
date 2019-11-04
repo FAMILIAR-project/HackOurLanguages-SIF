@@ -84,9 +84,10 @@ in Proceedings of the 15th International Conference on Modularity
 
 * Testing software and compilers (MA, 24 october)
      - milestone: testing your compilers
-        - deadline: 06 november
+        - deadline: 07 november before 4PM
 
 * Personal work (4 november)
+     - see new instructions on the Google doc; deadline: 07 november before 4PM
 
 * Automated assessement of compilers' variants and benchmarks (MA, 07 november)
      - milestone: finding functional and non-functional bugs in a compiler 
