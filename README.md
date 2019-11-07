@@ -90,7 +90,8 @@ in Proceedings of the 15th International Conference on Modularity
      - see new instructions on the Google doc; deadline: 07 november before 4PM
 
 * Automated assessement of compilers' variants and benchmarks (MA, 07 november)
-     - milestone: finding functional and non-functional bugs in a compiler 
+   * slides: `AutomatedTesting.pdf`
+   * milestone: finding functional and non-functional bugs in a compiler 
 
 * Final exam (1 hour, JMJ, 14 november)
 
