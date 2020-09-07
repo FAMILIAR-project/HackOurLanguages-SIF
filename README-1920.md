@@ -29,36 +29,29 @@ You can find below the schedule and organization of the course, including:
 
 ## Agenda
 
- * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 14 september)
+ * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 16 september)
     * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
 
- * Interpretation, Compilation, model transformation, Logo example (JMJ, 17 september)
-    * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
-   * presentation of the running project
-
- * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 21 september)
-   * watch video
-   * Choice of the project
-
- * Home work (24 september)
-   * Design the meta-model for your DSL
-   * prepare presentation of the result for sept. 28
-
- * Language workbenches (MA, 28 september)
-   * presentation of 2 of your meta-models (random pick) + discussion
-   * Course: Concrete syntax with Xtext
+ * Language workbenches: the case of Xtext (MA, 19 september)
    * slides: `DSLXtext.pdf`
+   * presentation of the running project
+   * milestone: metamodel of a DSL for specifying SAT formula (see below running project)
+     * deadline: 25 september 
+    * milestone: concrete syntax of the DSL with Xtext 
+       * deadline: 25 september 
 
- * Home work (1st October)
-    * design your concrete syntax of your DSL with Xtext 
-    * prepare presentation of the result for Oct. 5
-    
- * Program & Model Transformations: the Case of Xtend (MA, 5 October)
+ * Compilation, interpretation, model transformation, Logo example (JMJ, 23 september)
+    * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
+
+ * Program & Model Transformations: the Case of Xtend (MA, 26 september)
    * slides: `ModelManagement.pdf`
    * intermediate control of the running project
-   * milestone: parsing and pretty printing
+   * milestone: pretty printing and DIMACS transformation (see below running project)
+      - deadline: 02 october
 
- * Advanced model transformation and the expression problem (MA, 08 october)
+ * Personal work (30 september)
+
+ * Advanced model transformation and the expression problem (MA, 03 october)
    * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
    * we give a set of five papers on the expression problem that we will use in the final exam:
      - E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns:
@@ -74,23 +67,33 @@ workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015
 in Proceedings of the 15th International Conference on Modularity
 (Modularity’16). ACM, 2016, pp. 37–41.  
 
-* Introduction to Variability Modeling: software product lines and feature models (MA, 12 October)
+* Personal work: reading papers about the expression problem (7 october)
+
+* Introduction to Variability Modeling: software product lines and feature models (MA, 10 october)
    * slides: `VariabilitySPLIntro.pdf`
    * milestone: compilers 
+     - deadline: 16 october
 
-* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 15 october) 
+* Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 14 october)
+
+* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 17 october) 
    * intermediate control of the running project
    * slides: `VariabilityModeling.pdf`
+   
+* Personal work (21 october)
 
-* Testing software and compilers (MA, 19 october)
+* Testing software and compilers (MA, 24 october)
      - milestone: testing your compilers
         - deadline: 07 november before 4PM
 
-* Automated assessement of compilers' variants and benchmarks (MA, 22 October)
+* Personal work (4 november)
+     - see new instructions on the Google doc; deadline: 07 november before 4PM
+
+* Automated assessement of compilers' variants and benchmarks (MA, 07 november)
    * slides: `AutomatedTesting.pdf`
    * milestone: finding functional and non-functional bugs in a compiler 
 
-* Final exam (1 hour, JMJ, 12 november)
+* Final exam (1 hour, JMJ, 14 november)
 
 
 ### What you will master	
