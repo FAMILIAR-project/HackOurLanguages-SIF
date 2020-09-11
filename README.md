@@ -37,7 +37,7 @@ You can find below the schedule and organization of the course, including:
    * presentation of the running project
 
  * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 21 september)
-   * watch video
+   * watch video beforehand: https://youtu.be/lRi0rtKy1Ns
    * Choice of the project
 
  * Home work (24 september)
