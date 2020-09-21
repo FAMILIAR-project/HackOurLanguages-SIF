@@ -39,10 +39,11 @@ You can find below the schedule and organization of the course, including:
  * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 21 september)
    * watch video beforehand: https://youtu.be/lRi0rtKy1Ns
    * Choice of the project
+     * Slides `project20.pdf`
 
  * Home work (24 september)
    * Design the meta-model for your DSL
-   * prepare presentation of the result for sept. 28
+   * prepare presentation of the result for Sept. 28
 
  * Language workbenches (MA, 28 september)
    * presentation of 2 of your meta-models (random pick) + discussion
