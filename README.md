@@ -83,16 +83,16 @@ in Proceedings of the 15th International Conference on Modularity
    * parsing, pretty printing, and first interpreter or compiler
    * prepare presentation of the result for Oct. 19
 
-* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 19 october) 
-   * intermediate control of the running project
-   * slides: `VariabilityModeling.pdf`
-
-* Testing software and compilers (MA, 22 october)
-     - milestone: testing your compilers
-
-* Automated assessement of compilers' variants and benchmarks (MA, 2 november)
+* Automated assessement of compilers' variants and benchmarks (MA, 19 october)
    * slides: `AutomatedTesting.pdf`
-   * milestone: finding functional and non-functional bugs in a compiler 
+   * intermediate control of the running project
+  
+* Home work (MA, 22 october)
+     - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
+
+* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 2 november) 
+   * slides: `VariabilityModeling.pdf`
+   * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
 
 * Final exam (1 hour, JMJ, 12 november)
 
