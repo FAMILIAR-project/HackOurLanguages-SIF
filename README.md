@@ -90,7 +90,7 @@ in Proceedings of the 15th International Conference on Modularity
 * Home work (MA, 22 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
-* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 2 november) 
+* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 2 november + 5 november) 
    * slides: `VariabilityModeling.pdf`
    * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
 
