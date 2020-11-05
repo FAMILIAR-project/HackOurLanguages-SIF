@@ -92,6 +92,7 @@ in Proceedings of the 15th International Conference on Modularity
 
 * Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 2 november + 5 november) 
    * slides: `VariabilityModeling.pdf`
+   * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
    * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
 
 * Final exam (1 hour, JMJ, 12 november)
