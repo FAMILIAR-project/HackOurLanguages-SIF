@@ -103,9 +103,8 @@ in Proceedings of the 15th International Conference on Modularity
 Design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
 
 ## Evaluation	
-+ project (hack a DSL) with several intermediate deliverables (50%): a DSL for SAT solver variants https://docs.google.com/document/d/15sPsJQDbAwzAaSQl1vDDcyUg5fQjeL2gs7MZnVbgAps/edit?usp=sharing
-  + common Github repository <https://github.com/diverse-project/SAT-DSLmorphic>
-+ Written exam (1h, 50%) **14 november**
++ project (hack a DSL) with several intermediate deliverables (50%): a morphic DSL for CSV/JSON/machine learning https://docs.google.com/document/d/1GkRGSZah2HsBsXS5A8WpBtdJGyO1_mkZmjQIxmOu0PE/edit?usp=sharing
++ Written exam (1h, 50%) **12 november**
 
 ## References	
 
