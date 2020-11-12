@@ -104,7 +104,8 @@ Design and implement families of DSL and their tooling support, generative appro
 
 ## Evaluation	
 + project (hack a DSL) with several intermediate deliverables (50%): a morphic DSL for CSV/JSON/machine learning https://docs.google.com/document/d/1GkRGSZah2HsBsXS5A8WpBtdJGyO1_mkZmjQIxmOu0PE/edit?usp=sharing
-+ Written exam (1h, 50%) **12 november**
++ Written exam (1h, 50%) ==> ***https://docs.google.com/document/d/1wrfPNggIXHfn0yy3HMB1reAOXKzmQjk5qjoKS8wub-E/edit?usp=sharing***  
+**12 november, 5PM**
 
 ## References	
 
