@@ -29,37 +29,36 @@ You can find below the schedule and organization of the course, including:
 
 ## Agenda
 
- * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 14 september)
+ * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 13 september)
     * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
 
- * Interpretation, Compilation, model transformation, Logo example (JMJ, 17 september)
+ * Interpretation, Compilation, model transformation, Logo example (JMJ, 16 september)
     * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
    * presentation of the running project
 
- * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 21 september)
-   * watch video beforehand: https://youtu.be/lRi0rtKy1Ns
+ * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 20 september)
      * Slides `DSL-engineering.pdf`
    * Choice of the project
      * Slides `project20.pdf`
 
- * Home work (24 september)
+ * Home work (23 september)
    * Design the meta-model for your DSL
-   * prepare presentation of the result for Sept. 28
+   * prepare presentation of the result for Sept. 27
 
- * Language workbenches (MA, 28 september)
+ * Language workbenches (MA, 27 september)
    * presentation of 2 of your meta-models (random pick) + discussion
    * Course: Concrete syntax with Xtext
    * slides: `DSLXtext.pdf`
 
- * Home work (1st October)
+ * Home work (30 september)
     * design your concrete syntax of your DSL with Xtext 
-    * prepare presentation of the result for Oct. 5
+    * prepare presentation of the result for Oct. 4
     
- * Program & Model Transformations: the Case of Xtend (MA, 5 October)
+ * Program & Model Transformations: the Case of Xtend (MA, 4 October)
    * slides: `ModelManagement.pdf`
    * intermediate control of the running project
 
- * Advanced model transformation and the expression problem (MA, 08 october)
+ * Advanced model transformation and the expression problem (MA, 7 october)
    * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
    * we give a set of six papers on the expression problem that we will use in the final exam:
      - E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns:
@@ -76,26 +75,26 @@ in Proceedings of the 15th International Conference on Modularity
 (Modularity’16). ACM, 2016, pp. 37–41.  
      - Bezanson, Jeff; Edelman, Alan; Karpinski, Stefan; Shah, Viral B. (7 February 2017). "Julia: A fresh approach to numerical computing". SIAM Review. 59 (1): 65–98. https://arxiv.org/abs/1411.1607 (especially Section 4)
 
-* Introduction to Variability Modeling: software product lines and feature models (MA, 12 October)
+* Introduction to Variability Modeling: software product lines and feature models (MA, 11 October)
    * slides: `VariabilitySPLIntro.pdf`
    
-* Home work (15 october)  
+* Home work (14 october)  
    * parsing, pretty printing, and first interpreter or compiler
-   * prepare presentation of the result for Oct. 19
+   * prepare presentation of the result for Oct. 18
 
-* Automated assessement of compilers' variants and benchmarks (MA, 19 october)
+* Automated assessement of compilers' variants and benchmarks (MA, 18 october)
    * slides: `AutomatedTesting.pdf`
    * intermediate control of the running project
   
-* Home work (MA, 22 october)
+* Home work (MA, 21 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
-* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 2 november + 5 november) 
+* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 25 october + 28 october) 
    * slides: `VariabilityModeling.pdf`
    * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
    * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
 
-* Final exam (1 hour, JMJ, 12 november)
+* Final exam (1 hour, JMJ, 8 november)
 
 
 ### What you will master	
@@ -104,8 +103,7 @@ Design and implement families of DSL and their tooling support, generative appro
 
 ## Evaluation	
 + project (hack a DSL) with several intermediate deliverables (50%): a morphic DSL for CSV/JSON/machine learning https://docs.google.com/document/d/1GkRGSZah2HsBsXS5A8WpBtdJGyO1_mkZmjQIxmOu0PE/edit?usp=sharing
-+ Written exam (1h, 50%) ==> ***https://docs.google.com/document/d/1wrfPNggIXHfn0yy3HMB1reAOXKzmQjk5qjoKS8wub-E/edit?usp=sharing***  
-**12 november, 5PM**
++ Written exam (1h, 50%) 
 
 ## References	
 
