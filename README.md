@@ -58,7 +58,7 @@ You can find below the schedule and organization of the course, including:
    * slides: `ModelManagement.pdf`
    * intermediate control of the running project
 
- * Advanced model transformation and the expression problem (MA, 7 october)
+ * Advanced model transformation and the expression problem (MA, 11 october)
    * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
    * we give a set of six papers on the expression problem that we will use in the final exam:
      - E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns:
@@ -75,18 +75,18 @@ in Proceedings of the 15th International Conference on Modularity
 (Modularity’16). ACM, 2016, pp. 37–41.  
      - Bezanson, Jeff; Edelman, Alan; Karpinski, Stefan; Shah, Viral B. (7 February 2017). "Julia: A fresh approach to numerical computing". SIAM Review. 59 (1): 65–98. https://arxiv.org/abs/1411.1607 (especially Section 4)
 
-* Introduction to Variability Modeling: software product lines and feature models (MA, 11 October)
+* Introduction to Variability Modeling: software product lines and feature models (MA, 14 October)
    * slides: `VariabilitySPLIntro.pdf`
    
-* Home work (14 october)  
+* Home work (21 october)  
    * parsing, pretty printing, and first interpreter or compiler
-   * prepare presentation of the result for Oct. 18
+   * prepare presentation of the result for Oct. 25
 
-* Automated assessement of compilers' variants and benchmarks (MA, 18 october)
+* Automated assessement of compilers' variants and benchmarks (MA, 25 october)
    * slides: `AutomatedTesting.pdf`
    * intermediate control of the running project
   
-* Home work (MA, 21 october)
+* Home work (MA, 28 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
 * Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 25 october + 28 october) 
