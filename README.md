@@ -102,7 +102,7 @@ in Proceedings of the 15th International Conference on Modularity
 Design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
 
 ## Evaluation	
-+ project (hack a DSL) with several intermediate deliverables (50%): a morphic DSL for CSV/JSON/machine learning https://docs.google.com/document/d/1GkRGSZah2HsBsXS5A8WpBtdJGyO1_mkZmjQIxmOu0PE/edit?usp=sharing
++ project (hack a DSL) with several intermediate deliverables (50%): a morphic DSL for CSV/JSON/machine learning https://docs.google.com/document/d/10_wMFg5rODdOra9WQz8rC1vtyOwl6rvZcOEdWzspA0o/edit?usp=sharing
 + Written exam (1h, 50%) 
 
 ## References	
@@ -116,7 +116,7 @@ https://teaching.variability.io
 
 ## Key notions	
 
-Principle of Separation of Concerns, Liskov's Substitution Principle, Theory and Practice of Hacking your own Languages, Large Scale Variability: 
+Principle of Separation of Concerns, Liskov's Substitution Principle, Theory and Practice of Hacking your own Languages, Large Scale Variability 
 
 Why is it crucial? 
 Because complex software intensive systems : avionics, smart-* (cities,building,grid,farming) and software are eating the world
