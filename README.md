@@ -93,8 +93,9 @@ in Proceedings of the 15th International Conference on Modularity
 * Home work (25 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
-* Final exam (1 hour + 1 hour, JMJ, 8 november)
+* Final exam (1 hour + 1 hour, MA, 8 november)
   * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
+  * exam on the expression problem
 
 
 ### What you will master	
