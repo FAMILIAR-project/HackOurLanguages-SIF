@@ -78,18 +78,18 @@ in Proceedings of the 15th International Conference on Modularity
 * Introduction to Variability Modeling: software product lines and feature models (MA, 14 October)
    * slides: `VariabilitySPLIntro.pdf`
    
-* Home work (21 october)  
+* Home work (18 october)  
    * parsing, pretty printing, and first interpreter or compiler
-   * prepare presentation of the result for Oct. 25
+   * prepare presentation of the result for Oct. 21
 
-* Automated assessement of compilers' variants and benchmarks (MA, 25 october)
+* Automated assessement of compilers' variants and benchmarks (MA, 21 october)
    * slides: `AutomatedTesting.pdf`
    * intermediate control of the running project
   
-* Home work (MA, 28 october)
+* Home work (25 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
-* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 25 october + 28 october) 
+* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 28 october) 
    * slides: `VariabilityModeling.pdf`
    * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
    * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
