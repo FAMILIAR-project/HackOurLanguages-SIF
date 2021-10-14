@@ -58,7 +58,7 @@ You can find below the schedule and organization of the course, including:
    * slides: `ModelManagement.pdf`
    * intermediate control of the running project
 
- * Advanced model transformation and the expression problem (MA, 11 october)
+ * Advanced model transformation and the expression problem (MA, 11+14 october)
    * example: https://github.com/arnobl/DSL-demo 
    * double dispatch: https://www.eclipse.org/xtend/documentation/202_xtend_classes_members.html#polymorphic-dispatch
    * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
