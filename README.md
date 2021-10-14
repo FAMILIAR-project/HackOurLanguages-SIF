@@ -74,27 +74,25 @@ workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015
 in Proceedings of the 15th International Conference on Modularity
 (Modularity’16). ACM, 2016, pp. 37–41.  
      - Bezanson, Jeff; Edelman, Alan; Karpinski, Stefan; Shah, Viral B. (7 February 2017). "Julia: A fresh approach to numerical computing". SIAM Review. 59 (1): 65–98. https://arxiv.org/abs/1411.1607 (especially Section 4)
-
-* Introduction to Variability Modeling: software product lines and feature models (MA, 14 October)
-   * slides: `VariabilitySPLIntro.pdf`
-   
+     
+* Automated assessement of compilers' variants and benchmarks (MA, 14 october)
+   * slides: `AutomatedTesting.pdf`
+   * intermediate control of the running project
+  
 * Home work (18 october)  
    * parsing, pretty printing, and first interpreter or compiler
    * prepare presentation of the result for Oct. 21
 
-* Automated assessement of compilers' variants and benchmarks (MA, 21 october)
-   * slides: `AutomatedTesting.pdf`
-   * intermediate control of the running project
+* Introduction to Variability Modeling: software product lines and feature models (MA, 21 October)
+   * slides: `VariabilitySPLIntro.pdf`
+   * slides: `VariabilityModeling.pdf` 
+   * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
   
 * Home work (25 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
-* Automated reasoning (e.g., with solvers) and synthesis of variants (MA, 28 october) 
-   * slides: `VariabilityModeling.pdf`
-   * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
-   * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
-
-* Final exam (1 hour, JMJ, 8 november)
+* Final exam (1 hour + 1 hour, JMJ, 8 november)
+  * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
 
 
 ### What you will master	
