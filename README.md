@@ -103,7 +103,8 @@ in Proceedings of the 15th International Conference on Modularity
 Design and implement families of DSL and their tooling support, generative approaches with early early V & V, application to variability management for SPL
 
 ## Evaluation	
-+ project (hack a DSL) with several intermediate deliverables (50%): a morphic DSL for CSV/JSON/machine learning https://docs.google.com/document/d/10_wMFg5rODdOra9WQz8rC1vtyOwl6rvZcOEdWzspA0o/edit?usp=sharing
++ project (hack a DSL) with several intermediate deliverables (50%): a morphic DSL for CSV/JSON/machine learning 
++ https://docs.google.com/document/d/10_wMFg5rODdOra9WQz8rC1vtyOwl6rvZcOEdWzspA0o/edit?usp=sharing 
 + Written exam (1h, 50%) 
 
 ## References	
