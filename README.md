@@ -85,9 +85,7 @@ in Proceedings of the 15th International Conference on Modularity
    * parsing, pretty printing, and first interpreter or compiler
    * prepare presentation of the result for Oct. 21
 
-* !! The course is **cancelled/postponed** (ie won't happen 21 October) !! 
-* Introduction to Variability Modeling: software product lines and feature models (MA, ~~21 October~~)
-   * !! The course is **cancelled/postponed** (ie won't happen 21 October) !!  
+* Introduction to Variability Modeling: software product lines and feature models (MA, ~~21 October~~, 29 october)
    * slides: `VariabilitySPLIntro.pdf`
    * slides: `VariabilityModeling.pdf` 
    * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
