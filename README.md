@@ -32,7 +32,7 @@ You can find below the schedule and organization of the course, including:
  * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 12 september)
     * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
     * presentation of the running project
-      * Slides `project20.pdf`
+      * Slides `project.pdf`
       
  * Preliminary homework on the project (15 September)
     * Design the meta-model for your DSL
