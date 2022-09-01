@@ -29,36 +29,35 @@ You can find below the schedule and organization of the course, including:
 
 ## Agenda
 
- * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 13 september)
+ * Introduction to MDE, SLE, DSL, metamodel and abstract syntax (JMJ, 12 september)
     * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf 
+    * presentation of the running project
+      * Slides `project20.pdf`
+      
+ * Preliminary homework on the project (15 September)
+    * Design the meta-model for your DSL
+    * prepare presentation of the result for Sept. 22
 
- * Interpretation, Compilation, model transformation, Logo example (JMJ, 16 september)
+ * Interpretation, Compilation, model transformation, Logo example (JMJ, 19 september)
     * slides: http://people.irisa.fr/Jean-Marc.Jezequel/enseignement/SIFDSL/Slides/IntroDSL.pdf
-   * presentation of the running project
-
- * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 20 september)
-     * Slides `DSL-engineering.pdf`
-   * Choice of the project
-     * Slides `project20.pdf`
-
- * Home work (23 september)
-   * Design the meta-model for your DSL
-   * prepare presentation of the result for Sept. 27
-
- * Language workbenches (MA, 27 september)
-   * presentation of 2 of your meta-models (random pick) + discussion
+   
+ * Language workbenches (MA, 22 september)
+   * presentation of your meta-models + discussion
    * Course: Concrete syntax with Xtext
    * slides: `DSLXtext.pdf`
 
- * Home work (30 september)
+ * Home work (26 september)
     * design your concrete syntax of your DSL with Xtext 
-    * prepare presentation of the result for Oct. 4
-    
- * Program & Model Transformations: the Case of Xtend (MA, 4 October)
+    * prepare presentation of the result for Oct. 3
+
+* Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 29 september)
+     * Slides `DSL-engineering.pdf`
+ 
+ * Program & Model Transformations: the Case of Xtend (MA, 3 October)
    * slides: `ModelManagement.pdf`
    * intermediate control of the running project
 
- * Advanced model transformation and the expression problem (MA, 11+14 october)
+ * Advanced model transformation and the expression problem (MA, 10+13 october)
    * example: https://github.com/arnobl/DSL-demo 
    * double dispatch: https://www.eclipse.org/xtend/documentation/202_xtend_classes_members.html#polymorphic-dispatch
    * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
@@ -77,23 +76,23 @@ in Proceedings of the 15th International Conference on Modularity
 (Modularity’16). ACM, 2016, pp. 37–41.  
      - Bezanson, Jeff; Edelman, Alan; Karpinski, Stefan; Shah, Viral B. (7 February 2017). "Julia: A fresh approach to numerical computing". SIAM Review. 59 (1): 65–98. https://arxiv.org/abs/1411.1607 (especially Section 4)
      
-* Automated assessement of compilers' variants and benchmarks (MA, 14 october)
+* Automated assessement of compilers' variants and benchmarks (MA, 13 october)
    * slides: `AutomatedTesting.pdf`
    * intermediate control of the running project
   
-* Home work (18 october)  
+* Home work (17 october)  
    * parsing, pretty printing, and first interpreter or compiler
-   * prepare presentation of the result for Oct. 21
+   * prepare presentation of the result for Oct. 20
 
-* Introduction to Variability Modeling: software product lines and feature models (MA, ~~21 October~~, 29 october)
+* Introduction to Variability Modeling: software product lines and feature models (MA, ~~20 October~~, 28 october)
    * slides: `VariabilitySPLIntro.pdf`
    * slides: `VariabilityModeling.pdf` 
    * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
   
-* Home work (25 october)
+* Home work (24 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
-* Final exam (1 hour + 1 hour, MA, 8 november)
+* Final exam (1 hour + 1 hour, MA, 7 november)
   * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
   * exam on the expression problem
 
