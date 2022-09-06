@@ -57,7 +57,7 @@ You can find below the schedule and organization of the course, including:
 * Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 3 October)
      * Slides `DSL-engineering.pdf`
 
-* Advanced model transformation and the expression problem (MA, 6+10 october)
+* Advanced model transformation and the expression problem (MA, 6 october)
    * example: https://github.com/arnobl/DSL-demo 
    * double dispatch: https://www.eclipse.org/xtend/documentation/202_xtend_classes_members.html#polymorphic-dispatch
    * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
@@ -70,20 +70,21 @@ European Conference on Object-Oriented Programming (ECOOP’12), 2012, pp. 2–2
 workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015.
      - Bezanson, Jeff; Edelman, Alan; Karpinski, Stefan; Shah, Viral B. (7 February 2017). "Julia: A fresh approach to numerical computing". SIAM Review. 59 (1): 65–98. https://arxiv.org/abs/1411.1607 (especially Section 4)
      
+* Home work (10 october)  
+   * parsing, pretty printing, and first interpreter or compiler
+   * prepare presentation of the result for Oct. 13 
+     
 * Automated assessement of compilers' variants and benchmarks (MA, 13 october)
    * slides: `AutomatedTesting.pdf`
-   * intermediate control of the running project
-  
-* Home work (17 october)  
-   * parsing, pretty printing, and first interpreter or compiler
-   * prepare presentation of the result for Oct. 20
+   * intermediate control of the running project 
 
-* Introduction to Variability Modeling: software product lines and feature models (MA, ~~20 October~~, 28 october)
+
+* Introduction to Variability Modeling: software product lines and feature models (MA, 17 october)
    * slides: `VariabilitySPLIntro.pdf`
    * slides: `VariabilityModeling.pdf` 
    * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
   
-* Home work (24 october)
+* Home work (20 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
 * Final exam (1 hour + 1 hour, MA, 7 november)
