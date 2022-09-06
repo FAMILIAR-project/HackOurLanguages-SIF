@@ -49,31 +49,25 @@ You can find below the schedule and organization of the course, including:
  * Home work (26 september)
     * design your concrete syntax of your DSL with Xtext 
     * prepare presentation of the result for Oct. 3
-
-* Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 29 september)
-     * Slides `DSL-engineering.pdf`
  
- * Program & Model Transformations: the Case of Xtend (MA, 3 October)
+ * Program & Model Transformations: the Case of Xtend (MA, 29 september)
    * slides: `ModelManagement.pdf`
    * intermediate control of the running project
 
- * Advanced model transformation and the expression problem (MA, 10+13 october)
+* Families of DSLs: Safely Reusing Tools accross DSLs (JMJ, 3 October)
+     * Slides `DSL-engineering.pdf`
+
+* Advanced model transformation and the expression problem (MA, 6+10 october)
    * example: https://github.com/arnobl/DSL-demo 
    * double dispatch: https://www.eclipse.org/xtend/documentation/202_xtend_classes_members.html#polymorphic-dispatch
    * slides: `ModelManagement.pdf` and slides of "Who is afraid of Object Algebras?" by Tijs Van Der Storm https://speakerdeck.com/joyofcoding/whos-afraid-of-object-algebras-tijs-van-der-storm 
-   * we give a set of six papers on the expression problem that we will use in the final exam:
-     - E. Gamma, R. Helm, R. Johnson, and J. Vlissides, Design Patterns:
-Elements of Reusable Object-oriented Software. Addison-Wesley
-Longman Publishing Co., Inc., Boston, MA, USA, 1995. **Interpreter** and **Visitor** chapters
+   * we give a set of three papers on the expression problem that we will use in the final exam:
      - B. C. d. S. Oliveira and W. R. Cook, “Extensibility for the masses -
 practical extensibility with object algebras,” in Proceedings of the 26th
 European Conference on Object-Oriented Programming (ECOOP’12), 2012, pp. 2–27.
      - J. Jézéquel, B. Combemale, O. Barais, M. Monperrus, and F. Fouquet,
 “Mashup of metalanguages and its implementation in the kermeta language
 workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015.
-     - Y. Wang and B. C. d. S. Oliveira, “The expression problem, trivially!”
-in Proceedings of the 15th International Conference on Modularity
-(Modularity’16). ACM, 2016, pp. 37–41.  
      - Bezanson, Jeff; Edelman, Alan; Karpinski, Stefan; Shah, Viral B. (7 February 2017). "Julia: A fresh approach to numerical computing". SIAM Review. 59 (1): 65–98. https://arxiv.org/abs/1411.1607 (especially Section 4)
      
 * Automated assessement of compilers' variants and benchmarks (MA, 13 october)
