@@ -87,7 +87,7 @@ workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015
 * Home work (20 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
 
-* Final exam (1 hour + 1 hour, MA, 7 november)
+* Final exam (1 hour + 1 hour, MA, 3 november)
   * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
   * exam on the expression problem
 
