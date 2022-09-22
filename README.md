@@ -110,6 +110,8 @@ Apel, S., Batory, D., Kästner, C., Saake, G.
 
 https://teaching.variability.io
 
+Short video explaining MDE and DSL with the mineSeeper game example: https://www.youtube.com/watch?v=3aoLV5i1feo
+
 ## Key notions	
 
 Principle of Separation of Concerns, Liskov's Substitution Principle, Theory and Practice of Hacking your own Languages, Large Scale Variability 
