@@ -50,7 +50,7 @@ You can find below the schedule and organization of the course, including:
     * design your concrete syntax of your DSL with Xtext 
     * prepare presentation of the result for Oct. 3
  
- * Program & Model Transformations: the Case of Xtend (MA, 29 september)
+ * Program & Model Transformations: the Case of Xtend (MA, 29 september + 6 october)
    * slides: `ModelManagement.pdf`
    * intermediate control of the running project
 
