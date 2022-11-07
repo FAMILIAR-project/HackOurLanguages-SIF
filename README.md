@@ -80,8 +80,7 @@ European Conference on Object-Oriented Programming (ECOOP’12), 2012, pp. 2–2
 workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015.
      - Bezanson, Jeff; Edelman, Alan; Karpinski, Stefan; Shah, Viral B. (7 February 2017). "Julia: A fresh approach to numerical computing". SIAM Review. 59 (1): 65–98. https://arxiv.org/abs/1411.1607 (especially Section 4)
      
- * Introduction to Variability Modeling: software product lines and feature models (MA, 17 october) 
-   * slides: `VariabilityAcherM-EJCP21-final.pdf` 
+
 
   
 * Home work (20 october)
@@ -90,6 +89,9 @@ workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015
 * Final exam (1 hour + 1 hour, MA, 7 november)
   * intermediate control of the running project: finding functional and non-functional bugs in a compiler 
   * exam on the expression problem
+  * Introduction to Variability Modeling: software product lines and feature models (MA, 7 november) 
+   * slides: `VariabilityAcherM-EJCP21-final.pdf`
+   * https://github.com/diverse-project/varylatex
 
 * Delivery of the projet (25 november)
  * [https://docs.google.com/document/d/10_wMFg5rODdOra9WQz8rC1vtyOwl6rvZcOEdWzspA0o/edit?usp=sharing](https://docs.google.com/document/d/1_ZvcWVgu10gKLBTBlYj14k0OX9jA0Nllme2buSsFA7w/edit?usp=sharing)
