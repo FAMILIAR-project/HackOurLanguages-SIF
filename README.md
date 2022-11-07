@@ -80,10 +80,9 @@ European Conference on Object-Oriented Programming (ECOOP’12), 2012, pp. 2–2
 workbench,” Software and Systems Modeling, vol. 14, no. 2, pp. 905–920, 2015.
      - Bezanson, Jeff; Edelman, Alan; Karpinski, Stefan; Shah, Viral B. (7 February 2017). "Julia: A fresh approach to numerical computing". SIAM Review. 59 (1): 65–98. https://arxiv.org/abs/1411.1607 (especially Section 4)
      
- * Introduction to Variability Modeling: software product lines and feature models (MA, 17 october)
-   * slides: `VariabilitySPLIntro.pdf`
-   * slides: `VariabilityModeling.pdf` 
-   * Modeling variability of Uno card game (exercise): https://docs.google.com/presentation/d/1FWE-ddqFstebqK-t2V3ZeVZgLKnyxiNwMzIFHBZd3WQ/edit?usp=sharing
+ * Introduction to Variability Modeling: software product lines and feature models (MA, 17 october) 
+   * slides: `VariabilityAcherM-EJCP21-final.pdf` 
+
   
 * Home work (20 october)
      - milestone: testing your DSL, finding functional and non-functional bugs in your compilers/interpreters or in... existing libraries/tools
